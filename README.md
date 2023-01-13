@@ -1,5 +1,5 @@
 
-# 👋 Hello there, I'm Hussain Abdillah 
+# <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello there, I'm Hussain Abdillah 
 I'm a second year Informatics student at Muhammadiyah University of Surakarta. I am interested to learn programming. I hope this page can be use as my portfolio project.
 
 # 💻 Tech that I use 
