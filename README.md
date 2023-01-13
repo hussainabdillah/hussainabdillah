@@ -1,5 +1,9 @@
-# 💫 About Me:
-🎓Hi, I'm Hussain Abdillah 
+## Hello there, I'm Hussain Abdillah 👋
+I'm a second year Informatics student at Muhammadiyah University of Surakarta. I am interested to learn programming. I hope this page can be use as my portfolio project.
+
+# About me:
+I'm currently learning Java
+
 
 
 ## 🌐 Socials:
