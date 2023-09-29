@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-# <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello there, I'm Hussain Abdillah 
+# 👋 Hello there, I'm Hussain Abdillah 
 I'm second year Informatics student at Muhammadiyah University of Surakarta. I am interested to learn programming. I hope this page can be use as my portfolio project. I'm currently learning React Framework for working on upcoming projects. Hope you guys can contribute and give feedback to my progress. Thanks :)
 
 # 💻 Tech that I use 
@@ -65,4 +65,5 @@ I'm currently learning JavaScript
 <!---
 hussainabdillah/hussainabdillah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 --->
