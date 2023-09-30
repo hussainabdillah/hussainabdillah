@@ -39,6 +39,8 @@ Tools and Technologies:
 </p>
 
 ---
+
+[![An image of @hussainabdillah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hussainabdillah)](https://holopin.io/@hussainabdillah)
 <!--- credit for awesome badges
 https://github.com/Ileriayo/markdown-badges
 https://gprm.itsvg.in/
