@@ -19,10 +19,10 @@ Currently Working on project:
 
 # 🚀 Top Repo
 <a href="https://github.com/hussainabdillah/story-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hussainabdillah&repo=story-app&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hussainabdillah&repo=story-app&theme=slateorange" />
 </a>
 <a href="https://github.com/hussainabdillah/github-user-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hussainabdillah&repo=github-user-app&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hussainabdillah&repo=github-user-app&theme=aura_dark" />
 </a>
 
 ---
