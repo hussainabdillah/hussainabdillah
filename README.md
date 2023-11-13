@@ -32,14 +32,14 @@ Tools and Technologies:
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hussainabdillah&layout=compact&langs_count=8&theme=dracula" alt="hussainabdillah's github stats" /></a> 
 </p>
 
-
+<!---
 ## 🏆 GitHub Trophies 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-profile-trophy.vercel.app/?username=hussainabdillah&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="hussainabdillah's github stats" /></a> 
 </p>
 
 ---
-
+<!---
 [![An image of @hussainabdillah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hussainabdillah)](https://holopin.io/@hussainabdillah)
 <!--- credit for awesome badges
 https://github.com/Ileriayo/markdown-badges
