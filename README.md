@@ -5,7 +5,7 @@ I'm third year Informatics student at Muhammadiyah University of Surakarta. I al
 
 Currently Working on project:
 
-- [Building Android Apps with Jetpack Compose]()
+- [Building Android Apps with Jetpack Compose](https://github.com/hussainabdillah/jetcats-app)
 - [Bangkit Capstone Project]()
 - [My Syllabus UMS]()
 
