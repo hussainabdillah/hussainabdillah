@@ -1,7 +1,7 @@
 # 👋 Hello there, I'm Hussain Abdillah
 
 <p>
-I'm third year Informatics student at Muhammadiyah University of Surakarta. I also part of Mobile Development cohort at Bangkit Academy 2023. I'm currently learning Kotlin and React Framework for working on upcoming projects. Hope you guys can contribute and give feedback to my repo. </p> <br>
+I'm third year Informatics student at Muhammadiyah University of Surakarta. I also part of Mobile Development cohort at Bangkit Academy 2023. I'm currently learning Kotlin and React Framework for working on upcoming projects. Hope you guys can contribute and give feedback to my repo. </p>
 
 ### 📈 GitHub Stats 
 
@@ -20,6 +20,7 @@ I'm third year Informatics student at Muhammadiyah University of Surakarta. I al
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![NodeJs](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white)
+![Next](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 #### Mobile Development
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
