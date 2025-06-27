@@ -6,7 +6,7 @@ I'm third year Informatics student at Muhammadiyah University of Surakarta. I al
 ### 📈 GitHub Stats 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hussainabdillah&rank_icon=github&theme=vue-dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hussainabdillah&rank_icon=github&theme=vue-dark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussainabdillah&hide=c,lua,procfile&theme=vue-dark&layout=compact&langs_count=8" />
@@ -33,7 +33,7 @@ I'm third year Informatics student at Muhammadiyah University of Surakarta. I al
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Turtlify-Capstone&repo=Mobile-Development&theme=slateorange" />
 </a>
 <a href="https://github.com/hussainabdillah/jetcats-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hussainabdillah&repo=jetcats-app&theme=aura_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hussainabdillah&repo=wellmind-journey-app&theme=aura_dark" />
 </a>
 
 ---
