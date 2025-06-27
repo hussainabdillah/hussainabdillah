@@ -32,7 +32,7 @@ I'm third year Informatics student at Muhammadiyah University of Surakarta. I al
 <a href="https://github.com/Turtlify-Capstone/Mobile-Development">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Turtlify-Capstone&repo=Mobile-Development&theme=slateorange" />
 </a>
-<a href="https://github.com/hussainabdillah/jetcats-app">
+<a href="https://github.com/hussainabdillah/wellmind-journey-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hussainabdillah&repo=wellmind-journey-app&theme=aura_dark" />
 </a>
 
