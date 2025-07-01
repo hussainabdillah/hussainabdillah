@@ -9,7 +9,7 @@ I'm third year Informatics student at Muhammadiyah University of Surakarta. I al
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hussainabdillah&rank_icon=github&theme=vue-dark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussainabdillah&hide=c,lua,procfile&theme=vue-dark&layout=compact&langs_count=8" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussainabdillah&hide=shaderlab,c%23,lua,procfile&theme=vue-dark&layout=compact&langs_count=8" />
 </a>
 
 ### 💻 Technology 
@@ -18,7 +18,6 @@ I'm third year Informatics student at Muhammadiyah University of Surakarta. I al
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-![NodeJs](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white)
 ![Next](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
