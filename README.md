@@ -6,7 +6,7 @@ I'm third year Informatics student at Muhammadiyah University of Surakarta. I al
 ### 📈 GitHub Stats 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussainabdillah&hide=shaderlab,c%23,lua,procfile&theme=vue-dark&layout=compact&langs_count=8&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussainabdillah&hide=hlsl,powershell,shaderlab,c%23,lua,procfile&theme=vue-dark&layout=compact&langs_count=10&hide_border=true" />
 </a>
 
 ### 💻 Technology 
