@@ -6,10 +6,7 @@ I'm third year Informatics student at Muhammadiyah University of Surakarta. I al
 ### 📈 GitHub Stats 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hussainabdillah&rank_icon=github&theme=vue-dark&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussainabdillah&hide=shaderlab,c%23,lua,procfile&theme=vue-dark&layout=compact&langs_count=8" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussainabdillah&hide=shaderlab,c%23,lua,procfile&theme=vue-dark&layout=compact&langs_count=8&hide_border=true" />
 </a>
 
 ### 💻 Technology 
@@ -27,12 +24,16 @@ I'm third year Informatics student at Muhammadiyah University of Surakarta. I al
 ![JetpackCompose](https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=Jetpack-Compose&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
 
+### 📊 GitHub Stats 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainabdillah&theme=vue-dark&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="hussainabdillah's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainabdillah&theme=vue-dark&hide_border=true" /></a>
+| ------------- | ------------- |
+
 ### 🚀 Latest Project
 <a href="https://github.com/Turtlify-Capstone/Mobile-Development">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Turtlify-Capstone&repo=Mobile-Development&theme=slateorange" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Turtlify-Capstone&repo=Mobile-Development&theme=slateorange&hide_border=true" />
 </a>
 <a href="https://github.com/hussainabdillah/wellmind-journey-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hussainabdillah&repo=wellmind-journey-app&theme=aura_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hussainabdillah&repo=wellmind-journey-app&theme=aura_dark&hide_border=true" />
 </a>
 
 ---
