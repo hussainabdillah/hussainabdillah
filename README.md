@@ -24,16 +24,16 @@ I'm third year Informatics student at Muhammadiyah University of Surakarta. I al
 ![JetpackCompose](https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=Jetpack-Compose&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
 
-### 📊 GitHub Stats 
+### 📊 GitHub Contribution 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainabdillah&theme=vue-dark&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="hussainabdillah's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainabdillah&theme=vue-dark&hide_border=true" /></a>
 | ------------- | ------------- |
 
 ### 🚀 Latest Project
-<a href="https://github.com/Turtlify-Capstone/Mobile-Development">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Turtlify-Capstone&repo=Mobile-Development&theme=slateorange&hide_border=true" />
+<a href="https://github.com/hussainabdllah/next-evoting-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hussainabdillah&repo=next-evoting-app&theme=prussian&hide_border=true" />
 </a>
-<a href="https://github.com/hussainabdillah/wellmind-journey-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hussainabdillah&repo=wellmind-journey-app&theme=aura_dark&hide_border=true" />
+<a href="https://github.com/hussainabdillah/evoting-blockchain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hussainabdillah&repo=evoting-blockchain&theme=outrun&hide_border=true" />
 </a>
 
 ---
