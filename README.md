@@ -1,7 +1,7 @@
 # 👋 Hello there, I'm Hussain Abdillah
 
 <p>
-I'm third year Informatics student at Muhammadiyah University of Surakarta. I also part of Mobile Development cohort at Bangkit Academy 2023. I'm currently learning Kotlin and React Framework for working on upcoming projects. Hope you guys can contribute and give feedback to my repo. </p>
+Final year Informatics student at Muhammadiyah University of Surakarta. Part of Mobile Development cohort at Bangkit Academy 2023. Currently learning Kotlin and React Framework for working on upcoming projects. </p>
 
 ### 📈 GitHub Stats 
 
