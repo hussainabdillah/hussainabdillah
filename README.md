@@ -29,7 +29,7 @@ Final year Informatics student at Muhammadiyah University of Surakarta. Part of 
 | ------------- | ------------- |
 
 ### 🚀 Latest Project
-| <a href="https://github.com/hussainabdllah/next-evoting-app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hussainabdillah&repo=next-evoting-app&theme=prussian&hide_border=true" /></a> | <a href="https://github.com/hussainabdillah/evoting-blockchain"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hussainabdillah&repo=evoting-blockchain&theme=calm_pink&hide_border=true" /></a>
+| <a href="https://github.com/hussainabdillah/next-evoting-app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hussainabdillah&repo=next-evoting-app&theme=prussian&hide_border=true" /></a> | <a href="https://github.com/hussainabdillah/evoting-blockchain"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hussainabdillah&repo=evoting-blockchain&theme=calm_pink&hide_border=true" /></a>
 | ------------- | ------------- |
 
 
