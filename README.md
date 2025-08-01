@@ -25,16 +25,27 @@ Final year Informatics student at Muhammadiyah University of Surakarta. Part of 
 ![AndroidStudio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
 
 ### 📊 GitHub Contribution 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainabdillah&theme=vue-dark&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="hussainabdillah's github stats" />
+</a>
+
+### 🚀 Latest Project
+<a href="https://github.com/hussainabdillah/next-evoting-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hussainabdillah&repo=next-evoting-app&theme=prussian&hide_border=true" />
+</a>
+<a href="https://github.com/hussainabdillah/evoting-blockchain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hussainabdillah&repo=evoting-blockchain&theme=calm_pink&hide_border=true" />
+</a>
+
+---
+
+<!---
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainabdillah&theme=vue-dark&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="hussainabdillah's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainabdillah&theme=vue-dark&hide_border=true" /></a>
 | ------------- | ------------- |
 
-### 🚀 Latest Project
+
 | <a href="https://github.com/hussainabdillah/next-evoting-app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hussainabdillah&repo=next-evoting-app&theme=prussian&hide_border=true" /></a> | <a href="https://github.com/hussainabdillah/evoting-blockchain"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hussainabdillah&repo=evoting-blockchain&theme=calm_pink&hide_border=true" /></a>
 | ------------- | ------------- |
-
-
-
----
 
 <!---
 <img src="https://raw.githubusercontent.com/hussainabdillah/hussainabdillah/main/header.png">
